@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/SportsStore.csproj": {}
+    "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/SportsStore.csproj": {}
   },
   "projects": {
-    "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/SportsStore.csproj": {
+    "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/SportsStore.csproj",
+        "projectUniqueName": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/SportsStore.csproj",
+        "projectPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/SportsStore.csproj",
         "packagesPath": "/Users/minhluongvan/.nuget/packages/",
-        "outputPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/",
+        "outputPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/minhluongvan/.nuget/NuGet/NuGet.Config"
