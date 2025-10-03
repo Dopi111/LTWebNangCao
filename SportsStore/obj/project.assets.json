@@ -1971,24 +1971,25 @@
     ]
   },
   "packageFolders": {
-    "/Users/minhluongvan/.nuget/packages/": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/SportsStore.csproj",
+      "projectUniqueName": "D:\\ltwncbuoi2\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/SportsStore.csproj",
-      "packagesPath": "/Users/minhluongvan/.nuget/packages/",
-      "outputPath": "/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/",
+      "projectPath": "D:\\ltwncbuoi2\\SportsStore\\SportsStore.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\ltwncbuoi2\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/minhluongvan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2001,6 +2002,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2037,7 +2043,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
