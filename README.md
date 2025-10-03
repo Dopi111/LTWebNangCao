@@ -35,5 +35,5 @@ Dự án SportsStore là một ứng dụng web bán hàng thể thao được x
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/LTWEBNC.git
+git clone https://github.com/Dopi111/LTWebNangCao/
 cd LTWEBNC
